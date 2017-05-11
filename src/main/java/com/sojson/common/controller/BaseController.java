@@ -28,7 +28,7 @@ import com.sojson.common.utils.StringUtils;
  * <p>
  * 
  * 区分　责任人　日期　　　　说明<br/>
- * 创建　周柏成1　2016年5月3日 　<br/>
+ * 创建　周柏成　2016年5月3日 　<br/>
  * <p>
  * *******
  * <p>
